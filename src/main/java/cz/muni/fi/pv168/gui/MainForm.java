@@ -1,4 +1,4 @@
-package cz.muni.fi.pv168.web;
+package cz.muni.fi.pv168.gui;
 
 import cz.muni.fi.pv168.Car;
 
